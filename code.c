@@ -15,3 +15,6 @@ int main() {
     }
     return 0;
 }
+// continue : skip the current iteration and jump to the next iteration of the loop.
+// write a programe that allows user to enter  integer untill he/she enter 0 or negetive number
+// but skip the even numbers
